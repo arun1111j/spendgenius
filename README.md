@@ -132,3 +132,12 @@ shap.summary_plot(shap_values, X_test_top)
 end_time = time.time()
 print("Processing time:", end_time - start_time, "seconds")
 ```
+#  RESULT:
+![image](https://github.com/user-attachments/assets/fe15e197-4dae-4170-b90c-dc1eff1d9859)
+![Screenshot 2024-11-03 200939](https://github.com/user-attachments/assets/4b90d6cc-7fea-4a8a-beba-4c24b29b0311)
+![Screenshot 2024-11-03 201028](https://github.com/user-attachments/assets/17f55c21-b3f1-4f0e-b0fb-0da36c3f67a8)
+![Screenshot 2024-11-03 201101](https://github.com/user-attachments/assets/01d8a768-4e4a-41d3-9adb-69d92d085169)
+![Screenshot 2024-11-03 201141](https://github.com/user-attachments/assets/4848dd7f-39c6-4991-a38a-7636c420d631)
+![Screenshot 2024-11-03 201203](https://github.com/user-attachments/assets/2f079ca6-a28a-4d16-bedc-08280331f34e)
+
+
